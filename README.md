@@ -1,5 +1,5 @@
 # Author
-Arash Tashakori - arashtash.github.io -arashtkr@gmail.com
+Arash Tashakori - arashtash.github.io - arashtkr@gmail.com
 
 # License
 See the License file in the repository
